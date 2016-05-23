@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="72ab87d1-1c06-447b-82cd-2546099262be" name="Default" comment="">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ScreenObject.py" afterPath="$PROJECT_DIR$/ScreenGroup.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Message.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScreenGroup.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ScreenObject.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Prize.py" afterPath="$PROJECT_DIR$/Prize.py" />
@@ -51,7 +53,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ScreenGroup.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ScreenGroup.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ScreenGroup.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
@@ -61,7 +63,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Prize.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Prize.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Prize.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="465">
@@ -471,14 +473,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ScreenGroup.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="37" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -504,6 +498,14 @@
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScreenGroup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="37" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="37" />
+          <folding />
         </state>
       </provider>
     </entry>
