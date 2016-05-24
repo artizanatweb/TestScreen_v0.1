@@ -6,10 +6,13 @@ import Prize as prizeGroup
 class Screen():
     def __init__(self):
         # type: () -> object
+        # start pygame
+        pygame.init()
         # store screen info
         self.info = pygame.display.Info()
         # create app window
         self.display = pygame.display.set_mode((self.info.current_w, self.info.current_h), FULLSCREEN)
+        # HWSURFACE | DOUBLEBUF | RESIZABLE | FULLSCREEN
         # set title for window
         pygame.display.set_caption('Jackpot Screen App')
 

@@ -6,9 +6,6 @@ import sys
 import signal
 import Screen as scr
 
-
-pygame.init()
-
 # set process title so it can be killed on stop
 try:
     import setproctitle
